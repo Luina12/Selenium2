@@ -1,0 +1,9 @@
+valid_name= "Tomasz"
+valid_surname ="Nowak"
+age_field='28'
+sex='kobieta'
+telephone_field='886456092'
+email_field='pk.jamroz@gmail.com'
+password_field='!2hifnr!'
+country_field='Polska'
+country_to_choose='polska'
