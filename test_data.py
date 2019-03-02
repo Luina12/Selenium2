@@ -1,9 +1,11 @@
-valid_name= "Tomasz"
-valid_surname ="Nowak"
-age_field='28'
-sex='kobieta'
-telephone_field='886456092'
-email_field='pk.jamroz@gmail.com'
-password_field='!2hifnr!'
-country_field='Polska'
-country_to_choose='polska'
+#-*- coding: utf-8-*-
+
+ivalid_name=u'Pawel'
+valid_name="Pawel"
+valid_surname=u'Nowak'
+valid_gender='female'
+valid_phone="663419872"
+valid_email='pk.jamroz@gmail.com'
+wrong_email=''
+valid_password='1Q2w3e4r'
+valid_country='Polska'
